@@ -1,9 +1,14 @@
 fileFormatVersion: 2
-guid: 998e5ab31e649ce48a198592f32bae46
+guid: e32db42972d14f94498083c11d23ca9a
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall
+    second: {fileID: 2100000, guid: ba9504e6cc61b684d806407970cf8500, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -32,9 +37,7 @@ ModelImporter:
     clipAnimations: []
     isReadable: 0
   meshes:
-    lODScreenPercentages:
-    - 0.25
-    - 0.01
+    lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
     addColliders: 0
