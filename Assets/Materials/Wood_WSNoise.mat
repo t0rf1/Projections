@@ -1,5 +1,18 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-7208556155699565334
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 9
 --- !u!21 &2100000
 Material:
   serializedVersion: 8
@@ -7,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Roof_WSNoise
+  m_Name: Wood_WSNoise
   m_Shader: {fileID: -6465566751694194690, guid: cfdd0a059a41c4843a0324a199f65c46, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -25,15 +38,15 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BaseMap:
-        m_Texture: {fileID: 2800000, guid: 87436a07fdff566448bf560759f3b38a, type: 3}
+        m_Texture: {fileID: 2800000, guid: 96d9db8a184b576418920414fd3b15b1, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MaskMap:
-        m_Texture: {fileID: 2800000, guid: aabbb5b954074284da489fb5625c3798, type: 3}
+        m_Texture: {fileID: 2800000, guid: 22ce7932d395f1340b836450fb83414e, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _NormalMap:
-        m_Texture: {fileID: 2800000, guid: 7e175337afead6240b5a5bc445e89b3d, type: 3}
+        m_Texture: {fileID: 2800000, guid: 313cde22933f7a74fa80e06affd29540, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
@@ -50,28 +63,15 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _NoiseBlackLevel: 0.337
-    - _NoiseOpacity: 1
-    - _NoiseScale: 2.22
-    - _NoiseSmoothness: 2.5
+    - _NoiseBlackLevel: 0
+    - _NoiseOpacity: 0
+    - _NoiseScale: 8.72
+    - _NoiseSmoothness: 1
     - _NoiseWhiteLevel: 1
     - _OcclusionStrength: 1
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _NoiseColor: {r: 0, g: 0, b: 0, a: 0}
+    - _NoiseColor: {r: 1, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
---- !u!114 &694037304033904341
-MonoBehaviour:
-  m_ObjectHideFlags: 11
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  version: 9
