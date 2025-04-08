@@ -14,7 +14,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8797995277579444712
 Transform:
@@ -81,9 +81,21 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7323261335915080303, guid: 7106d7c1702c9ca429f42d5c4b78dbfa, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7106d7c1702c9ca429f42d5c4b78dbfa, type: 3}
       propertyPath: m_Name
       value: WallSmall_BigWindow
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7106d7c1702c9ca429f42d5c4b78dbfa, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1006871601169068822, guid: 7106d7c1702c9ca429f42d5c4b78dbfa, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4742473837712756890, guid: 7106d7c1702c9ca429f42d5c4b78dbfa, type: 3}
       propertyPath: m_Size
@@ -91,7 +103,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4742473837712756890, guid: 7106d7c1702c9ca429f42d5c4b78dbfa, type: 3}
       propertyPath: m_LODs.Array.data[0].screenRelativeHeight
-      value: 0.5732061
+      value: 0.35082427
       objectReference: {fileID: 0}
     - target: {fileID: 4742473837712756890, guid: 7106d7c1702c9ca429f42d5c4b78dbfa, type: 3}
       propertyPath: m_LODs.Array.data[1].screenRelativeHeight
@@ -155,9 +167,21 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -1082007106109841983, guid: bea9f2e170c65de48a3a78cfa10316a0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: bea9f2e170c65de48a3a78cfa10316a0, type: 3}
       propertyPath: m_Name
       value: Wall_BigWindow_Stones
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bea9f2e170c65de48a3a78cfa10316a0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1603816907099126879, guid: bea9f2e170c65de48a3a78cfa10316a0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4742473837712756890, guid: bea9f2e170c65de48a3a78cfa10316a0, type: 3}
       propertyPath: m_Size
@@ -165,7 +189,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4742473837712756890, guid: bea9f2e170c65de48a3a78cfa10316a0, type: 3}
       propertyPath: m_LODs.Array.data[0].screenRelativeHeight
-      value: 0.3568905
+      value: 0.1992898
       objectReference: {fileID: 0}
     - target: {fileID: 4742473837712756890, guid: bea9f2e170c65de48a3a78cfa10316a0, type: 3}
       propertyPath: m_LODs.Array.data[1].screenRelativeHeight

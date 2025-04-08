@@ -14,7 +14,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4285206718149398551
 Transform:
@@ -84,13 +84,25 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -6640349016100743918, guid: ec8cced543bfd86409a1a5227acab1b4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -4344970745130850310, guid: ec8cced543bfd86409a1a5227acab1b4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ec8cced543bfd86409a1a5227acab1b4, type: 3}
       propertyPath: m_Name
       value: WallRoofSmall_BrokenTopR
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ec8cced543bfd86409a1a5227acab1b4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4742473837712756890, guid: ec8cced543bfd86409a1a5227acab1b4, type: 3}
       propertyPath: m_LODs.Array.data[0].screenRelativeHeight
-      value: 0.4270522
+      value: 0.2522223
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -150,13 +162,25 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -1954754437811305076, guid: 768d4663e3af8b8428033b4fb9b7a7a9, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 768d4663e3af8b8428033b4fb9b7a7a9, type: 3}
       propertyPath: m_Name
       value: WallRoof_BrokenlBottomL
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 768d4663e3af8b8428033b4fb9b7a7a9, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4742473837712756890, guid: 768d4663e3af8b8428033b4fb9b7a7a9, type: 3}
       propertyPath: m_LODs.Array.data[0].screenRelativeHeight
-      value: 0.34474933
+      value: 0.2522223
+      objectReference: {fileID: 0}
+    - target: {fileID: 5875454737280395441, guid: 768d4663e3af8b8428033b4fb9b7a7a9, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -216,13 +240,25 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -6610046988194629962, guid: 6405833c846885640a28f9c405374554, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6405833c846885640a28f9c405374554, type: 3}
       propertyPath: m_Name
       value: WallRoofSmall_BrokenTopL
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6405833c846885640a28f9c405374554, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4742473837712756890, guid: 6405833c846885640a28f9c405374554, type: 3}
       propertyPath: m_LODs.Array.data[0].screenRelativeHeight
-      value: 0.41207272
+      value: 0.2522223
+      objectReference: {fileID: 0}
+    - target: {fileID: 5714784325963876565, guid: 6405833c846885640a28f9c405374554, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -282,13 +318,25 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 728644756681760928, guid: 01c30e971ac540f41992cbc8a35c306d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 01c30e971ac540f41992cbc8a35c306d, type: 3}
       propertyPath: m_Name
       value: WallRoof_BrokenlBottomR
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 01c30e971ac540f41992cbc8a35c306d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 3990984802087024019, guid: 01c30e971ac540f41992cbc8a35c306d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4742473837712756890, guid: 01c30e971ac540f41992cbc8a35c306d, type: 3}
       propertyPath: m_LODs.Array.data[0].screenRelativeHeight
-      value: 0.35727116
+      value: 0.2457983
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -308,6 +356,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 4285206718149398551}
     m_Modifications:
+    - target: {fileID: -8950250357792350998, guid: 4fb2ab639adf7e542badbcbc3735ab00, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 4fb2ab639adf7e542badbcbc3735ab00, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -348,9 +400,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -460253889452585024, guid: 4fb2ab639adf7e542badbcbc3735ab00, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4fb2ab639adf7e542badbcbc3735ab00, type: 3}
       propertyPath: m_Name
       value: Wall_BrokenMiddle
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4fb2ab639adf7e542badbcbc3735ab00, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4742473837712756890, guid: 4fb2ab639adf7e542badbcbc3735ab00, type: 3}
       propertyPath: m_Size
@@ -358,11 +418,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4742473837712756890, guid: 4fb2ab639adf7e542badbcbc3735ab00, type: 3}
       propertyPath: m_LODs.Array.data[0].screenRelativeHeight
-      value: 0.84152806
+      value: 0.30185345
       objectReference: {fileID: 0}
     - target: {fileID: 4742473837712756890, guid: 4fb2ab639adf7e542badbcbc3735ab00, type: 3}
       propertyPath: m_LODs.Array.data[1].screenRelativeHeight
-      value: 0.39866275
+      value: 0.09673992
+      objectReference: {fileID: 0}
+    - target: {fileID: 6168050992229884697, guid: 4fb2ab639adf7e542badbcbc3735ab00, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

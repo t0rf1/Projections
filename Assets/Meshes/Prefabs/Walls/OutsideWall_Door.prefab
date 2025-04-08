@@ -14,7 +14,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1425190585682217755
 Transform:
@@ -87,6 +87,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRoof_Bottom
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2f8af21d7f04e29439bab2a9ee4ae4b5, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -145,13 +149,25 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4474573163052232131, guid: 8ef467375795b6341908584ec1adad5f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -3594410908989612696, guid: 8ef467375795b6341908584ec1adad5f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8ef467375795b6341908584ec1adad5f, type: 3}
       propertyPath: m_Name
       value: Wall_DoorStones
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8ef467375795b6341908584ec1adad5f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4742473837712756890, guid: 8ef467375795b6341908584ec1adad5f, type: 3}
       propertyPath: m_LODs.Array.data[0].screenRelativeHeight
-      value: 0.7
+      value: 0.39533365
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -211,13 +227,25 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 722793914740884773, guid: 9e96f0876c6595345b9f7fec95556f98, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 9e96f0876c6595345b9f7fec95556f98, type: 3}
       propertyPath: m_Name
       value: WallRoof_Top
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9e96f0876c6595345b9f7fec95556f98, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 2014138039909559027, guid: 9e96f0876c6595345b9f7fec95556f98, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4742473837712756890, guid: 9e96f0876c6595345b9f7fec95556f98, type: 3}
       propertyPath: m_LODs.Array.data[0].screenRelativeHeight
-      value: 0.77669644
+      value: 0.39803433
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -281,13 +309,25 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall_Door
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 08675c46cc8b0174eba13b3dd0aaf76a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 2511746321179515327, guid: 08675c46cc8b0174eba13b3dd0aaf76a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4742473837712756890, guid: 08675c46cc8b0174eba13b3dd0aaf76a, type: 3}
       propertyPath: m_Size
       value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 4742473837712756890, guid: 08675c46cc8b0174eba13b3dd0aaf76a, type: 3}
       propertyPath: m_LODs.Array.data[0].screenRelativeHeight
-      value: 0.6053998
+      value: 0.34828857
+      objectReference: {fileID: 0}
+    - target: {fileID: 7694205518702372624, guid: 08675c46cc8b0174eba13b3dd0aaf76a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
