@@ -63,15 +63,15 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _NoiseBlackLevel: 0
-    - _NoiseOpacity: 0
-    - _NoiseScale: 8.72
-    - _NoiseSmoothness: 1
-    - _NoiseWhiteLevel: 1
+    - _NoiseBlackLevel: 0.435
+    - _NoiseOpacity: 1
+    - _NoiseScale: 20
+    - _NoiseSmoothness: 2
+    - _NoiseWhiteLevel: 0.696
     - _OcclusionStrength: 1
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _NoiseColor: {r: 1, g: 0, b: 0, a: 0}
+    - _NoiseColor: {r: 0.08108401, g: 0.233, b: 0.14016244, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1

@@ -52,17 +52,17 @@ Material:
     m_Floats:
     - _Blend: 1000
     - _Float: 0
-    - _NoiseBlackLevel: 0
-    - _NoiseOpacity: 0.508
-    - _NoiseScale: 2.22
-    - _NoiseSmoothness: 2
-    - _NoiseWhiteLevel: 0.71
+    - _NoiseBlackLevel: 0.322
+    - _NoiseOpacity: 1
+    - _NoiseScale: 1
+    - _NoiseSmoothness: 2.5
+    - _NoiseWhiteLevel: 0.58
     - _OcclusionStrength: 1
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Tiling: 1
     m_Colors:
-    - _NoiseColor: {r: 0.77254903, g: 0.6277149, b: 0.36862746, a: 0}
+    - _NoiseColor: {r: 0.39200002, g: 0.28311113, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &6814111793998914065
