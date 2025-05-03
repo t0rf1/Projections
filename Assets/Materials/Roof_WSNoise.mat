@@ -50,16 +50,16 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _NoiseBlackLevel: 0.164
+    - _NoiseBlackLevel: 0.397
     - _NoiseOpacity: 1
     - _NoiseScale: 6.24
     - _NoiseSmoothness: 3
-    - _NoiseWhiteLevel: 0.429
+    - _NoiseWhiteLevel: 0.5
     - _OcclusionStrength: 1
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _NoiseColor: {r: 0, g: 0, b: 0, a: 0}
+    - _NoiseColor: {r: 0.0074407193, g: 0.348, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &694037304033904341
